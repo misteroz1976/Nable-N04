@@ -32,7 +32,7 @@ You should have the following items ready before beginning the process:
 
 -   [Setup your IoT hub][lnk-setup-iot-hub]
 -   [Provision your device and get its credentials][lnk-manage-iot-hub]
--   Ensure that the ***Nable USB driver for N04 GSM*** has been installed. If not, it can be downloaded from [here](https://www.eurosystems.it/DevIc/Drivers/CDCDriver/DevIcCDC.zip). After download unpack and install the driver.
+-   Ensure that the ***Nable USB driver for N04 GSM*** has been installed. If not, it can be downloaded from [here](https://www.eurosystems.it/DevIc/Drivers/CDCDriver/N04CDC.zip). After download unpack and install the driver.
 -   Connect the __N04 GSM__ with its integrated USB service interface to your PC-side USB interface.
 
 <a name="PrepareDevice"></a>
@@ -40,7 +40,7 @@ You should have the following items ready before beginning the process:
 
 ## Configure N04 GSM for Azure IoT Hub by using the DevIc Host tool
 
-1. Download the DevIc Host tool installation package from [here](https://www.eurosystems.it/DevIc/Host/DevIcHost.zip)
+1. Download the DevIc Host tool executables from [here](https://www.eurosystems.it/DevIc/Host/DevIcHost.zip)
 
 2. Launch the DevIc Host tool and click on functions menu / parameters management menu
 
